@@ -1,0 +1,13 @@
+# ninja log v5
+0	26	1643582395730827584	CMakeFiles/Semaphore.dir/main.cpp.o	3fea9a2eccd32b2a
+0	12	1643582430446552514	build.ninja	8a8bc19033f35048
+0	25	1643582430474552296	CMakeFiles/Semaphore.dir/main.cpp.o	9a40cca10133cd52
+25	43	1643582430490552172	Semaphore	f6eefae55ac2ca86
+0	31	1643582478918186993	CMakeFiles/Semaphore.dir/main.cpp.o	9a40cca10133cd52
+31	54	1643582478938186847	Semaphore	f6eefae55ac2ca86
+1	29	1643583164126493221	CMakeFiles/Semaphore.dir/main.cpp.o	9a40cca10133cd52
+29	56	1643583164150493121	Semaphore	f6eefae55ac2ca86
+0	23	1643584205470854056	CMakeFiles/Semaphore.dir/main.cpp.o	9a40cca10133cd52
+23	45	1643584205490853993	Semaphore	f6eefae55ac2ca86
+0	21	1643584402066843961	CMakeFiles/Semaphore.dir/main.cpp.o	9a40cca10133cd52
+21	39	1643584402086843959	Semaphore	f6eefae55ac2ca86

@@ -1,0 +1,3 @@
+/home/daniel/Escritorio/dev/c/mutex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daniel/Escritorio/dev/c/mutex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniel/Escritorio/dev/c/mutex/cmake-build-debug/CMakeFiles/mutex.dir
